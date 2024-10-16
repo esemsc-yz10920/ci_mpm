@@ -7,3 +7,4 @@ def my_sum(iterable):
     for i in iterable:
         tot += i
     return tot
+
